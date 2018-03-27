@@ -1,0 +1,8 @@
+.list-heroes li:hover{
+    background-color: gold;
+    font-weight: bold;
+}
+
+.selected{
+    background-color: aqua;
+}
